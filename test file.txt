@@ -1,1 +1,5 @@
 Trying push
+
+== Push worked correctly==
+
+Trying pull
